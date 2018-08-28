@@ -1,9 +1,9 @@
 -- COMP9311 17s2 Assignment 1
--- Schema for Ozcars
+-- 
 --
 -- Date: 22/08/2017
--- Student Name: Jiahui Wang	
--- Student ID: 5171973
+-- 	
+-- 
 --
 
 -- Some useful domains; you can define more if needed.
